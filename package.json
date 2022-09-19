@@ -1,0 +1,30 @@
+{
+  "name": "websekolah",
+  "version": "1.0.0",
+  "description": "Web sekolah ilmu hukum bogor",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gaunk/webuniversitas.git"
+  },
+  "keywords": [
+    "stih",
+    "dharma",
+    "andigha",
+    "php",
+    "codeigniter",
+    "4"
+  ],
+  "author": "gaunk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gaunk/webuniversitas/issues"
+  },
+  "homepage": "https://github.com/Gaunk/webuniversitas#readme"
+}
