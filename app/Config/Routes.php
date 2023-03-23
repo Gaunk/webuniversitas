@@ -35,6 +35,11 @@ $routes->set404Override();
 
 // We get a performance increase by specifying the default
 // route since we don't have to scan directories.
+$routes->get('adminkampus', 'Adminkampus::index');
+$routes->post('adminkampus/adm_cek', 'Adminkampus::adm_cek');
+
+$routes->get('administratorkampus', 'Administratorkampus::index');
+
 $routes->get('/', 'Home::index');
 
 /*

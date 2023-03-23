@@ -36,6 +36,7 @@ class Filters extends BaseConfig
             // 'honeypot',
             // 'csrf',
             // 'invalidchars',
+            
         ],
         'after' => [
             'toolbar',

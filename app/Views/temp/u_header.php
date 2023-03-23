@@ -11,6 +11,12 @@
                                 </li>
                                 <li><a href="#">Phone: 0811-1129-906</a>
                                 </li>
+                                <li><a href="#">SIAKAD</a>
+                                </li>
+                                <li><a href="#">PMB</a>
+                                </li>
+                                <li><a href="#">ALUMNI</a>
+                                </li>
                             </ul>
                         </div>
                         <div class="ed-com-t1-right">
@@ -42,16 +48,20 @@
                 <div class="row">
                     <div class="col-md-12">
                         <div class="wed-logo">
-                            <a href="index-2.html"><img src="<?= base_url('temp') ?>/images/logo.png" alt="" />
+                            <a href="<?= base_url('') ?>">
+                                <img src="<?= base_url('temp') ?>/images/logo-2.png" alt="" />
                             </a>
                         </div>
                         <div class="main-menu">
                             <ul>
-                                <li><a href="index-2.html">
-                                    <img src="https://img.icons8.com/color-glass/20/000000/home.png"/> Home</a>
+                                <li><a href="">
+                                     Home</a>
+                                </li>
+                                <li><a href="">
+                                     Tentang Kami</a>
                                 </li>
                                 <li class="about-menu">
-                                    <a href="#" class="mm-arr">Informasi</a>
+                                    <a href="#" class="mm-arr">Akademik</a>
                                     <!-- MEGA MENU 1 -->
                                     <div class="mm-pos">
                                         <div class="about-mm m-menu">
@@ -95,9 +105,13 @@
                                
                                 <li><a href="#">Galery</a>
                                 </li>
-                                <li><a href="#">Mahasiswa</a>
+                                <li><a href="#">Kemahasiswaan</a>
+                                </li>
+                                <li><a href="#">Kampus</a>
                                 </li>
                                 <li><a href="#">Pendaftaran</a>
+                                </li>
+                                <li><a href="#">E-learning</a>
                                 </li>
                             </ul>
                         </div>

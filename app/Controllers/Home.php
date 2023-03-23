@@ -7,7 +7,7 @@ class Home extends BaseController
     public function index()
     {
         $data = [
-            'judul' => 'Sekolah Tinggi Ilmu Hukum | STIH Dharma Andhiga',
+            'judul' => 'STIH Dharma Andigha - Profesional. Integritas. Humanis',
             'stih'  => 'home'
 
         ];

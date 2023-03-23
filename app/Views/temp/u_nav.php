@@ -4,7 +4,8 @@
             <div class="ed-mob-menu-con">
                 <div class="ed-mm-left">
                     <div class="wed-logo">
-                        <a href="_blank"><img src="<?= base_url('temp') ?>/images/logo.png" alt="" />
+                        <a href="_blank">
+                            <img src="<?= base_url('temp') ?>/images/logo-2.png" class="img-fluid" alt="" />
 						</a>
                     </div>
                 </div>
